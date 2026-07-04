@@ -73,8 +73,8 @@ pkg update -y && pkg upgrade -y
 # 2. Install git dan nodejs
 pkg install git nodejs -y
 
-# 3. clone
-git clone https://github.com/shawawah12-alt/wa-ai-bot.git
+# 3. clone repo
+https://github.com/shawawah12-alt/wa-ai-bot.git
 cd wa-ai-bot
 
 # 4. Jalankan script instalasi
