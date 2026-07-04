@@ -1,4 +1,5 @@
-https://github.com/shawawah12-alt/Wa-ai-bot/actions/workflows/node.js.yml
+[![Node.js CI](https://github.com/shawawah12-alt/Wa-ai-bot/actions/workflows/node.js.yml/badge.svg)](https://github.com/shawawah12-alt/Wa-ai-bot/actions/workflows/node.js.yml)
+
 # WA AI Bot
 
 Bot WhatsApp berbasis AI yang memanfaatkan API berformat OpenAI-compatible untuk menjawab pertanyaan, menganalisis gambar, dan mengingat konteks percakapan. Dibangun di atas library [Baileys](https://github.com/WhiskeySockets/Baileys) dengan metode **pairing code**, sehingga pengguna tidak perlu memindai QR code dari layar terminal. Cukup masukkan nomor WhatsApp, dapatkan kode pairing, lalu masukkan kode tersebut di aplikasi WhatsApp.
